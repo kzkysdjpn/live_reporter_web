@@ -1,5 +1,5 @@
 {
-	"TITLE"                : "Darwin Streaming Server 설정 내용",
+	"TITLE"                : "Darwin Streaming Server 설정에 대한",
 	"MAIN_RETURN"          : "메인화면으로 복귀",
 	"MSG_0"                : "<p>Darwin Streaming Server와Live-Reporter설정방법에 대하여 설명합니다.</p><h5>Darwin Streaming Server측&ldquo;General Settings&rdquo;화면을 엽니다.</h5><h5>화면 목록&ldquo;Broadcast Username/Password&rdquo;을 엽니다.</h5>",
 	"MSG_1"                : "<h5>화면&ldquo;New User Name&rdquo; 과 &ldquo;New Password&rdquo;란에</h5><h5>임의 사용자ID와 비밀번호를 설정합니다.</h5><h5>여기의 인증정보는, Live-Reporter에서,</h5><h5>Darwin Streaming Server에 접속할때 요구합니다.</h5>",
