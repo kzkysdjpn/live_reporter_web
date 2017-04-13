@@ -8,5 +8,5 @@
 	"MSG_4"                : "<h5>접속버튼을 눌러, 인증정보를 입력합니다.</h5>",
 	"MSG_5"                : "<p>여기에 사용자ID와 비밀번호은</p><p>Darwin Streaming Server측에 설정한</p><p>&ldquo;Broadcast Username/Password&rdquo;정보로 됩니다.</p>",
 	"MSG_6"                : "<h5>Darwin Streaming Server를 인스톨한</h5><h5>파일 시스템&ldquo;/usr/local/movies&rdquo;  확인합니다.</h5>",
-	"MSG_7"                : "<p>우선으로Live-Reporter화면에 입력한 스트림명</p><p>&ldquo;test.sdp&rdquo;의 파일이 존재하면 성공입니다.</p>"
+	"MSG_7"                : "<p>방금 전Live-Reporter화면에 입력한 스트림명</p><p>&ldquo;test.sdp&rdquo;의 파일이 존재하면 성공입니다.</p>"
 }
