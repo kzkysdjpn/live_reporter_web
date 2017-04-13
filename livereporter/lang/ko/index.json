@@ -1,5 +1,5 @@
 {
-	"title"                : "LiveReporter 내용",
+	"title"                : "LiveReporter에 대한",
 	"TITLE_MSG"            : "<p>LiveReporter은 iOS상에서 카메라 영상을 전송하는 어플리케이션이다.</p><p>전송하는 영상을 확인하려면, PC/스마트폰 어플을 사용해 수신합니다.</p><p>또는, 오픈 소스 또는 유료 배포 서버를 향해 </ p> <p> 영상을 푸시 할 수 있습니다. </ p> <p> 본 페이지에서는 기본적인 사용 방법에 대한 설명을 기재하고 있습니다. </ p> ",
 	"OTHER_FUNCTION"       : "기타 기능 내용",
 	"BROADCAST_SERVER"     : "<p><a href='#' onclick='loadLocalizedHTMLPage(\"about_plus.html\")'>Live-Reporter+내용</a></p><p><a href='#' onclick='loadLocalizedHTMLPage(\"plus_web.html\")'>WEB화면 - Live-Reporter+</a></p><p><a href='#' onclick='loadLocalizedHTMLPage(\"wowza.html\")'>Wowza Media Server를 셋엎한다.</a></p><p><a href='#' onclick='loadLocalizedHTMLPage(\"dss.html\")'>Darwin Streaming Server를 셋엎한다.</a></p><p><a href='#' onclick='loadLocalizedHTMLPage(\"custom_scheme.html\")'>사용자URL기능</a></p>",
